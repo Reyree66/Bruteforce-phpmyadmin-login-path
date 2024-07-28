@@ -4,5 +4,3 @@ pip3 install pyfiglet
 
 running this script :
 python3 brutepma.py
-enter the website
-enter list.txt
